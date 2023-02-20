@@ -1,4 +1,4 @@
-<a href="https://sentientexistense.github.io/" title="Avatar" alt="Lacrimae's avatar"><img src="https://www.pixiv.net/en/artworks/104972678" title="Lacrimae" alt="Lacrimae avatar"></a>
+[![alt text](assets/104972678_p13.jpg)](https://sentientexistense.github.io/)
 
 ### Hi there! 👋🏻
 
