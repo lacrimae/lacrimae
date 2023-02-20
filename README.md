@@ -18,4 +18,5 @@ You might find https://sentientexistense.github.io/ to be of interest!
 - Studying **system** and **low-level** design to enhance my understanding of software architecture and design
   principles.
 - Learning about NoSQL databases and applying my knowledge to develop a microservice architecture with **Redis**.
-- Building a microservices-based chat application called `Chatastic` that operates in real-time.
+- Building a microservices-based chat application
+  called [`Chatastic`](https://github.com/stars/sentientexistense/lists/chatastic) that operates in real-time.
