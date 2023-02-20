@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://sentientexistense.github.io/" title="Avatar" alt="Lacrimae's avatar"><img src="https://www.pixiv.net/en/artworks/104972678" title="Lacrimae" alt="Lacrimae avatar"></a>
+
+### Hi there! 👋🏻
 
 <!--
 **sentientexistense/sentientexistense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
