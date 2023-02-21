@@ -12,6 +12,8 @@
 
 You might find https://sentientexistense.github.io/ to be of interest!
 
+![](https://visitor-badge.glitch.me/badge?page_id=sentientexistense.visitor-badge)
+
 ## `🌱 I'm currently learning/working on`
 
 - Developing a strong foundation in **CS** by studying **data structures** and **algorithms** on LeetCode.
