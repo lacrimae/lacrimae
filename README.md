@@ -10,6 +10,8 @@
 > discord [click here](https://discordapp.com/users/1076499602313838592) (Lacrimae#7425) or via
 > email <a href="lacrimae.me@gmail.com" target="_blank">lacrimae.me@gmail.com</a><br>
 
+You might find https://sentientexistense.github.io/ to be of interest!
+
 ## `🌱 I'm currently learning/working on`
 
 - Developing a strong foundation in **CS** by studying **data structures** and **algorithms** on LeetCode.
