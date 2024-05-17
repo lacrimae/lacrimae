@@ -1,6 +1,6 @@
-# `Hi there!👋🏻`
+### `Hi there!👋🏻`
 
-#### I'm *Kseniia Lebedeva* and it's a great pleasure to meet you.
+#### I'm *Xenia L* and it's a great pleasure to meet you.
 
 #### I am deeply passionate about coding and always eager to explore and master new technologies.
 
