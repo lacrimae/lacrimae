@@ -12,4 +12,4 @@ I've worked in 3 countries and fluently speak 2 languages: English and Russian. 
 
 #### Let's connect!
 [<img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Flacrimae&logo=leetcode&logoColor=yellow" />](https://leetcode.com/u/lacrimae/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/lacrimae-codes/)
