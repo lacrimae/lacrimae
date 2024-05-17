@@ -1,18 +1,15 @@
-### `Hi there!👋🏻`
+### Hi there! 
+<img src="https://github.com/lacrimae/lacrimae/blob/main/sleeping-cat.gif" width="155"/>
 
-#### I'm *Xenia L* and it's a great pleasure to meet you.
+I'm [**Xenia**](https://lacrimae.github.io), a software engineer from San Francisco Bay Area, California.
 
-#### I am deeply passionate about coding and always eager to explore and master new technologies.
+I'm primarily interested in **full-stack development** and currently work as a
+software engineer at [**@Wells Fargo**](https://github.com/wellsfargo).
 
-## `Reaching me out`
+I'm passionate about large-scale, high-impact products and have contributed to major feature launches for industry-leading services, as well as applications.
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kseniia-lebedeva-826207157/)
+I've worked in 3 countries and fluently speak 2 languages: English and Russian. I also play a lot of video games.
 
-> If you have any questions feel free to contact me via
-> email <a href="lacrimae.me@gmail.com" target="_blank">lacrimae.me@gmail.com</a><br>
-
-You might find https://lacrimae.github.io/ to be of interest!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lacrimae&theme=rose&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D&fire=EB5454)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lacrimae&theme=calm&hide_border=true&cache_seconds=1800"/>
+#### Let's connect!
+[<img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Flacrimae&logo=leetcode&logoColor=yellow" />](https://leetcode.com/u/lacrimae/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
